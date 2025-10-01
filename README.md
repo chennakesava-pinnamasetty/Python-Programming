@@ -2,7 +2,7 @@ Learning Python from Scratch 🐍
 
 Welcome to my journey of learning Python programming from the ground up!
 This repo 📂 contains my notes, practice codes, and mini-projects as I explore one of the most versatile and beginner-friendly programming languages.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 📖 About the Repo
 
 
