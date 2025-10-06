@@ -1,0 +1,8 @@
+Hai this is chenna kesava and i am learning python.
+
+
+Hai this is chenna kesava and 
+i am learning python.
+
+
+This is reading file.
